@@ -6,7 +6,7 @@ Summarise YouTube videos to spend less time watching them.
 
 You will need to grab your own Gemini API key from
 [aistudio.google.com](aistudio.google.com). Once you have it, put it in an
-environment variable called "GEMINI_API_KEY" so it can be retrieved by the
+environment variable called `GEMINI_API_KEY` so it can be retrieved by the
 server code.
 
 To run the server you will need to install the requirements, listed in
